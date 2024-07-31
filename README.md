@@ -21,4 +21,5 @@ HTML, CSS and Javascript
 
 ### Future Features:
  1. To display the dice in a more animated method.
-   
+
+I have created a TIC-TAC-TOE game and would love it if you guys would take a look. : https://github.com/JoyMeera/first-hackathon-TicTacToe 
